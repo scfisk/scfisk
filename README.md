@@ -1,4 +1,4 @@
-# <Sara Fisk (she/her)>
+# Sara Fisk (she/her)
 
 Hello, GitHub! 👋
 
