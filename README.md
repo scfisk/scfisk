@@ -1,16 +1,22 @@
-## Hi there 👋
+# <Sara Fisk (she/her)>
 
-<!--
-**scfisk/scfisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Sara Fisk, a student at Brigham Young University-Idaho interested in full-stack development and web design. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning how to do a personal programming project from start to finish. 
+- My goals are to build a diverse portfolio representative of my skills and interests.
+- Ask me about what I'm working on now.
+
+## Technologies and Tools
+
+- Proficient in: Python, C++, Javascript
+- Skills: Quick-learning
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/sara-fisk-c18) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
